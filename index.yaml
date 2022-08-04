@@ -3,7 +3,17 @@ entries:
   esap:
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2022-08-04T11:41:52.191742318+02:00"
+    created: "2022-08-04T11:46:01.165914823+02:00"
+    description: ESAP Helm Chart
+    digest: bb800a33980b617f1261989b983d0409dcf8db0079110f5be6a106ad4d150e8b
+    name: esap
+    type: application
+    urls:
+    - esap-0.1.11.tgz
+    version: 0.1.11
+  - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2022-08-04T11:46:01.165158427+02:00"
     description: ESAP Helm Chart
     digest: fdddd3633a0004c423e67bfecd30f7c1aaa8511bcd2f828a7c5c42b4a5e4e293
     name: esap
@@ -11,4 +21,4 @@ entries:
     urls:
     - esap-0.1.10.tgz
     version: 0.1.10
-generated: "2022-08-04T11:41:52.190921446+02:00"
+generated: "2022-08-04T11:46:01.164307458+02:00"
