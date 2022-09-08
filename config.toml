@@ -67,4 +67,5 @@ copyright = "© {year}"
   url = "/people"
 
 
-
+#[[markup.goldmark.renderer]]
+#  unsafe = true
