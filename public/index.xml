@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTA EPFL activities</title>
+    <link>http://example.org/</link>
+    <description>Recent content on CTA EPFL activities</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/people/</guid>
+      <description> https://people.epfl.ch/jean-paul.kneib https://people.epfl.ch/andrii.neronov?lang=en https://people.epfl.ch/volodymyr.savchenko?lang=en </description>
+    </item>
+    
+  </channel>
+</rss>
