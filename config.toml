@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://cta-epfl.github.io/'
 languageCode = 'en-us'
 title = 'CTA EPFL activities'
 theme = "hugo-theme-codex" 

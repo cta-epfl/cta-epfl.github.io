@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CTA EPFL activities</title>
-    <link>http://example.org/</link>
+    <link>https://cta-epfl.github.io/</link>
     <description>Recent content on CTA EPFL activities</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© {year}</copyright><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© {year}</copyright><atom:link href="https://cta-epfl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://example.org/people/</link>
+      <link>https://cta-epfl.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/people/</guid>
+      <guid>https://cta-epfl.github.io/people/</guid>
       <description> https://people.epfl.ch/jean-paul.kneib https://people.epfl.ch/andrii.neronov?lang=en https://people.epfl.ch/volodymyr.savchenko?lang=en </description>
     </item>
     
